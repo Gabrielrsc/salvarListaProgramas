@@ -1,0 +1,4 @@
+[autorun]
+open=programa.bat
+shell\dldi=DLDITool32
+shell\dldi\command=data\dlditool32.exe
